@@ -114,7 +114,6 @@ body {
 
     .card.featured {
         grid-column: span 1;
-        /* Головна картка на мобільному теж на 1 колонку */
     }
 
     .header {
